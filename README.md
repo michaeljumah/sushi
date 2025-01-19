@@ -8,3 +8,7 @@
 4. Vite
 
 a sushi WEBSITE
+
+
+RUNNING THE APPLICATION
+...run "npm run dev" on the terminal
